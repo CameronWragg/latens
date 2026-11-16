@@ -16,7 +16,7 @@ anyhow = "1.0.104"
 clap = { version = "4.6.7", features = ["derive"] }
 humantime = "2.4.0"
 rmcp = { version = "3.8.0", features = ["server", "macros", "transport-io"] }
-rusqlite = { version = "0.41.0", features = ["bundled"] }
+rusqlite = { version = "0.42.0", features = ["bundled"] }
 schemars = "1.2.3"
 serde = { version = "1.0.229", features = ["derive"] }
 serde-saphyr = "2.0.0"
